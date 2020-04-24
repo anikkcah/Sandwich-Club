@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This xml file contains the font arrays that point to the "fonts" directory-->
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/lobster_two</item>
+        <item>@font/roboto_slab</item>
+        <item>@font/freight_sans_condensed</item>
+    </array>
+</resources>
